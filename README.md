@@ -22,6 +22,7 @@ Current build status
 [![Linux](https://img.shields.io/circleci/project/github/conda-forge/cython-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/cython-feedstock)
 [![OSX](https://img.shields.io/travis/conda-forge/cython-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/cython-feedstock)
 [![Windows](https://img.shields.io/appveyor/ci/conda-forge/cython-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/cython-feedstock/branch/master)
+[![linux-aarch64](https://img.shields.io/shippable/5c33029f4e246e0700cef219/aarch64.svg?label=linux-aarch64)](https://app.shippable.com/github/Archiconda/cython-feedstock)
 
 Current release info
 ====================
